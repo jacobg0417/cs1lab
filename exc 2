@@ -1,0 +1,9 @@
+# A comment, this is so you can read your program later.
+# Anything after # is ignored by python
+
+print("I could have code like this.")# and the comment after this is ignored
+
+#you can also comment to "disable" or comment out a piece open
+# print "this wont RuntimeError
+
+print("this will run")
